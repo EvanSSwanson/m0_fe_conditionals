@@ -35,9 +35,20 @@ if (bearChoice === 1) {
 
 // Questions
 // 1. In English, using technical vocabulary, describe what is happening between lines 12 and 16.
+// An if/else statement is made. If the input is 1, it makes the value of bearClothing become "hat." If it *wasn't* 1, then bearClothing's
+// new value becomes "scarf."
 // 2. What variable has a new value assigned to it after the first if statement executes?
+// bearClothing
 // 3. If you changed the variable doorChoice to equal 3, what would the bearClothing value be?
+// The condition is "else," meaning anything that is not 1 will result in bearClothing = "scarf."
 // 4. In English, using technical vocabulary, describe what is happening between lines lines 25 and 33.
+// It sets up four possible outcomes. The first outcome, initiated by an if statement, states that if "1" is entered, a particular string
+// is printed. The next two statements, both executed with the else if format, do the same. The first two printed strings include
+// the user-chosen value of the variable bearClothing. If 1, 2, or 3 is not the input, then the "else" statement initiates an alternate
+// string.
 // 5. If you changed the variable bearChoice to equal 3, what will be the final outcome be?
+// It would become "You run as fast as you can into the next room. It's full of snakes!"
 // 6. If you changed the variable doorChoice to equal 1, and the variable bearChoice to equal 2, what will be the final outcome be?
+// The final outcome will be the console saying the string, "You tell the bear the hat is too small and it starts to cry!"
 // 7. What is your favorite ending?
+// Definitely choosing any number besides 1, 2, or 3. Sounds wholesome.
